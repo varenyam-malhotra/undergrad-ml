@@ -1,4 +1,4 @@
-### Undergrad Machine Learning Projects
+# Undergrad Machine Learning Projects
 
 ## Iris Flower Classifier (Machine Learning)
 Used machine learning-including k-means clustering (unsupervised learning) and classification using logistic regression and random forest 
